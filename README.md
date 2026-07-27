@@ -36,15 +36,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<!-- Ajoute ici tes captures d'écran, par exemple : -->
-<!-- <p align="center"><img src="screenshots/home.png" width="250" /> <img src="screenshots/history.png" width="250" /></p> -->
-
-*Screenshots coming soon.*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
