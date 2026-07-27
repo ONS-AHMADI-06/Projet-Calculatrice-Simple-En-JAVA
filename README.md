@@ -92,8 +92,3 @@ Computer Science Student — Software Engineering | AI & Machine Learning
 - LinkedIn: [ons-ahmadi-999650328](https://www.linkedin.com/in/ons-ahmadi-999650328/)
 - Email: ahmadions@fstsbz.u-kairouan.tn
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
